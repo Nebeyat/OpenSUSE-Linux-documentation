@@ -1,2 +1,3 @@
 # OpenSUSE-Linux-documentation
-Documentation for operating system installation,  and basic process management.
+Documentation Description
+This project documents the installation, configuration, and system-level exploration of the openSUSE Leap 15.5 Linux distribution in a virtualized environment. It provides detailed steps for setting up the system using Oracle VirtualBox, troubleshooting installation issues, and managing the Btrfs filesystem. The documentation also covers essential tools such as YaST, Zypper, and Snapper for system administration and package management. The goal is to offer a practical, hands-on guide for learning system programming, Linux administration, and open-source development. All procedures follow official guidelines and best practices to ensure stability, security, and maintainability.
